@@ -21,3 +21,9 @@ Employ data analytics to continuously monitor and analyze credit history pattern
 
 Credit Lifecycle Management
 Establish comprehensive lifecycle management for credit customers, ensuring regular reviews of creditworthiness, particularly as customers transition between age groups or job statuses.
+
+
+# Note 
+Data - german credit -better 
+Visualizations - Dashboard good score and Dashboard bad score
+Tableau link to dashboard https://public.tableau.com/app/profile/daniella.darkwah/viz/germancreditcard_17086322097310/Dashboard1 
